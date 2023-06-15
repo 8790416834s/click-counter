@@ -1,0 +1,26 @@
+.container {
+  text-align: center;
+}
+
+.heading {
+  font-family: 'Roboto';
+  color: #2d3a35;
+}
+
+.paragraph {
+  font-family: 'Roboto';
+  color: #2d3a35;
+}
+
+.button {
+  font-family: Roboto;
+  color: #ffffff;
+  background-color: #007bff;
+  cursor: pointer;
+  border-color: #f1f5f8;
+}
+
+.count {
+  font-family: Roboto;
+  color: #c20a72;
+}
